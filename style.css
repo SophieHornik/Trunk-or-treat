@@ -1,0 +1,85 @@
+html{
+    background-image: url("totbg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    cursor:url("pumpkin.png");
+}
+
+
+/*nav style */
+ .navbar-brand {
+    color:#ffffff
+    ;
+    font-family: 'Lilita One', sans-serif;
+    background-color: transparent;
+  }
+  .navbar-brand:visited{
+    color:#ffffff !important;
+    font-family: 'Lilita One', sans-serif;
+    background-color: transparent;
+  }
+  .navbar-brand:hover{
+    color: #ffffff;
+    font-family: 'Lilita One', sans-serif;
+    background-color: transparent;
+    text-shadow:1px 1px 10px #fff, 1px 1px 10px #ccc;
+  }
+  .navbar-brand:active{
+    color: #ffffff;
+    font-family: 'Lilita One', sans-serif;
+    background-color: transparent;
+    text-shadow:1px 1px 10px #fff, 1px 1px 10px #ccc;
+  }
+  
+  
+  .nav-link{
+    color: #ffffff;
+    font-family: 'Lilita One', sans-serif;
+    background-image: url("darkpumpkin.png");
+    background-repeat: no-repeat;
+    background-position: center,center;
+    background-size: 40px;
+    border-radius: 100%;
+  
+  }
+  .nav-link:visited{
+    color: #ffffff;
+    font-family: 'Lilita One', sans-serif;
+    background-image: url("darkpumpkin.png");
+    background-repeat: no-repeat;
+    background-position: center,center;
+    background-size: 40px;
+    border-radius: 100%;
+  }
+  .nav-link:hover{
+    color: #ffffff;
+    font-family: 'Lilita One', sans-serif;
+    background-color: transparent;
+    text-shadow:1px 1px 10px #fff, 1px 1px 10px #ccc;
+    background-image: url("lightpumpkin.png");
+    background-repeat: no-repeat;
+    background-position: center,center;
+    background-size:40px;
+    border-radius: %;
+    
+  }
+  
+  .nav-link:active{
+    color: #ffffff;
+    font-family: 'Lilita One', sans-serif;
+  }
+  
+  .navbar-toggler-icon{
+    color: #ffffff ;
+    font-family: 'Lilita One', sans-serif;
+  }
+  
+  .navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: rgb(255, 255, 255);
+  }
+
+  .navbar{
+    background-color: transparent;
+    cursor:url("pumpkin.png");
+  }
+    /*nav style end*/
