@@ -3,6 +3,7 @@ html{
     background-position: center;
     background-repeat: no-repeat;
     cursor:url("pumpkin.png");
+    background-attachment: fixed;
 }
 
 
@@ -81,5 +82,6 @@ html{
   .navbar{
     background-color: transparent;
     cursor:url("pumpkin.png");
+    background-color: rgb(116, 26, 233);
   }
     /*nav style end*/
