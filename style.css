@@ -95,7 +95,7 @@ html{
       font-family: 'Lilita One', sans-serif;
       margin-top: 50px;
       border-radius: 5px;
-      box-shadow: rgb(116, 26, 233) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+      box-shadow: rgb(116, 26, 233) 0px 3px 6px, rgb(116, 26, 233) 0px 3px 6px;
   }
   body{
     background-image:url("imgs/window.gif") ; 
@@ -109,4 +109,7 @@ html{
   .spiders{
     margin-top: 20px;
     margin-bottom: 200px;
+   
   }
+
+  
