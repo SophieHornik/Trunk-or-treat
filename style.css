@@ -83,5 +83,30 @@ html{
     background-color: transparent;
     cursor:url("pumpkin.png");
     background-color: rgb(116, 26, 233);
+
   }
     /*nav style end*/
+
+    .bg-hero-image{
+      background-image: url("halloherobg.jpg");
+      background-position: center center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      font-family: 'Lilita One', sans-serif;
+      margin-top: 50px;
+      border-radius: 5px;
+      box-shadow: rgb(116, 26, 233) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  }
+  body{
+    background-image:url("imgs/window.gif") ; 
+    /* gif from https://tenor.com/view/neon-neon-city-city-rain-lights-city-gif-27006540*/
+    background-repeat: no-repeat;
+    color: white;
+    background-size: cover;
+    background-color: transparent;
+  }
+  
+  .spiders{
+    margin-top: 20px;
+    margin-bottom: 200px;
+  }
