@@ -3,9 +3,18 @@ $(document).ready(function() {
     $(".MI").click(function() {
       $(".slide").toggle();
     });
-    $(".S1").click(function() {
-        $(".slide").slideToggle();
-      });
+    $(".three").hide();
+    $(".s1").click(function() {
+      $(".three").slideToggle();
+    });
+    $(".four").hide();
+    $(".s2").click(function() {
+      $(".four").slideToggle();
+    });
+    $(".six").hide();
+    $(".s3").click(function() {
+      $(".six").slideToggle();
+    });
       $(".galpic1").hide();
     $(".TS").mouseenter(function() {
         $(".galpic1").fadeIn();
@@ -37,6 +46,12 @@ $(document).ready(function() {
         $(".galpic5").fadeOut();
       });
       $(".galpic6").hide();
+      $(".Science").mouseenter(function() {
+        $(".galpic6").fadeIn();
+      }).mouseleave(function() {
+        $(".galpic6").fadeOut();
+      });
+       $(".galpic6").hide();
       $(".Science").mouseenter(function() {
         $(".galpic6").fadeIn();
       }).mouseleave(function() {

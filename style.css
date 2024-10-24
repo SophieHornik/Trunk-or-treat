@@ -227,3 +227,43 @@ a{
 a:hover{
   color: rgb(0, 0, 0);
 }
+.s{
+  background-image: url("spider.png");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 300px;
+  color: #fff;
+  text-align: center;
+  font-family: "Creepster", system-ui;
+  border: solid 20px transparent;
+}
+.s:hover{
+ opacity: 0.7;
+
+}
+.spiders{
+  
+}
+.three{
+  text-align: center;
+  font-family: "Creepster", system-ui;
+}
+.four{
+  text-align: center;
+  font-family: "Creepster", system-ui;
+}
+.six{
+  text-align: center;
+  font-family: "Creepster", system-ui;
+  
+}
+.hammer{
+  height: 200px;
+}
+.cleanup{
+  height: 200px;
+}
+.candy{
+  height: 200px;
+}
