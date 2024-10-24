@@ -217,3 +217,13 @@ html{
     height: 500px;
 
   }
+  ul {
+    text-align: center;
+    list-style-position: inside;
+}
+a{
+  color: rgb(116, 26, 233);
+}
+a:hover{
+  color: rgb(0, 0, 0);
+}
