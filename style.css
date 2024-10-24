@@ -138,28 +138,29 @@ html{
     border-radius: 5px;
     box-shadow: rgb(116, 26, 233) 0px 3px 6px, rgb(116, 26, 233) 0px 3px 6px;
   }
+  
   .TS{
     background-image:url("toystory.jpg");
     background-position: center;
     background-size: contain;
-    box-shadow: rgb(116, 26, 233) 0px 3px 6px, rgb(116, 26, 233) 0px 3px 6px;
+    
     text-align: center;
     color: #ff0000;
     font-family: "Creepster", system-ui;
-    background-color: rgb(116, 26, 233);
+    background-color: ff8800;
     background-repeat: no-repeat;
     height: 500px;
-
+   border: solid 20px #ff8800;
   }
   .CL{
     background-image:url("candy.jpg");
     background-position: center;
     background-size: contain;
-    box-shadow: rgb(116, 26, 233) 0px 3px 6px, rgb(116, 26, 233) 0px 3px 6px;
+    border: solid 20px #ff8800;
     text-align: center;
     color: #ff0000;
     font-family: "Creepster", system-ui;
-    background-color: rgb(116, 26, 233);
+    background-color: #ff8800;
     background-repeat: no-repeat;
     height: 500px;
 
@@ -168,11 +169,11 @@ html{
     background-image:url("dino.jpg");
     background-position: center;
     background-size: contain;
-    box-shadow: rgb(116, 26, 233) 0px 3px 6px, rgb(116, 26, 233) 0px 3px 6px;
+    border: solid 20px #ff8800;
     text-align: center;
     color: #ff0000;
     font-family: "Creepster", system-ui;
-    background-color: rgb(116, 26, 233);
+    background-color: #ff8800;
     background-repeat: no-repeat;
     height: 500px;
 
@@ -181,11 +182,11 @@ html{
     background-image:url("oz.jpg");
     background-position: center;
     background-size: contain;
-    box-shadow: rgb(116, 26, 233) 0px 3px 6px, rgb(116, 26, 233) 0px 3px 6px;
+    border: solid 20px #ff8800;
     text-align: center;
     color: #ff0000;
     font-family: "Creepster", system-ui;
-    background-color: rgb(116, 26, 233);
+    background-color: #ff8800;
     background-repeat: no-repeat;
     height: 500px;
 
@@ -194,11 +195,11 @@ html{
     background-image:url("santa.jpg");
     background-position: center;
     background-size: contain;
-    box-shadow: rgb(116, 26, 233) 0px 3px 6px, rgb(116, 26, 233) 0px 3px 6px;
+    border: solid 20px #ff8800;
     text-align: center;
     color: #ff0000;
     font-family: "Creepster", system-ui;
-    background-color: rgb(116, 26, 233);
+    background-color: #ff8800;
     background-repeat: no-repeat;
     height: 500px;
 
@@ -207,11 +208,11 @@ html{
     background-image:url("science.jpg");
     background-position: center;
     background-size: contain;
-    box-shadow: rgb(116, 26, 233) 0px 3px 6px, rgb(116, 26, 233) 0px 3px 6px;
+    border: solid 20px #ff8800;
     text-align: center;
     color: #ff0000;
     font-family: "Creepster", system-ui;
-    background-color: rgb(116, 26, 233);
+    background-color: #ff8800;
     background-repeat: no-repeat;
     height: 500px;
 
